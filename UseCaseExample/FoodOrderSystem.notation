@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:nattable="http://www.eclipse.org/papyrus/nattable/model" xmlns:nattableaxis="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxis" xmlns:nattableaxisconfiguration="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisconfiguration" xmlns:nattableaxisprovider="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisprovider" xmlns:nattableconfiguration="http://www.eclipse.org/papyrus/nattable/model/nattableconfiguration" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xsi:schemaLocation="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxis http://www.eclipse.org/papyrus/nattable/model#//nattableaxis http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisconfiguration http://www.eclipse.org/papyrus/nattable/model#//nattableaxisconfiguration http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisprovider http://www.eclipse.org/papyrus/nattable/model#//nattableaxisprovider http://www.eclipse.org/papyrus/nattable/model/nattableconfiguration http://www.eclipse.org/papyrus/nattable/model#//nattableconfiguration">
+  <notation:Diagram xmi:id="_T2_sAIvDEequnb8bScRigA" type="PapyrusUMLTimingDiagram" name="Timing Diagram" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_T2_sAYvDEequnb8bScRigA" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_T2_sAovDEequnb8bScRigA"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_T2_sA4vDEequnb8bScRigA" diagramKindId="org.eclipse.papyrus.uml.diagram.timing">
+      <owner xmi:type="uml:Model" href="FoodOrderSystem.uml#_Tx0REIvDEequnb8bScRigA"/>
+    </styles>
+    <element xmi:type="uml:Model" href="FoodOrderSystem.uml#_Tx0REIvDEequnb8bScRigA"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_T3I18IvDEequnb8bScRigA" type="UseCase" name="Use Case Diagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_81S1gIvDEequnb8bScRigA" type="Actor_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_81hfAIvDEequnb8bScRigA" type="Actor_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_81iGEIvDEequnb8bScRigA" y="15"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_81iGEYvDEequnb8bScRigA" type="Actor_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_81itIIvDEequnb8bScRigA" x="20" y="100"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_81itIYvDEequnb8bScRigA" type="Actor_QualifiedNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_81itIovDEequnb8bScRigA" x="20" y="80"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_81itI4vDEequnb8bScRigA" type="Actor_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_81itJIvDEequnb8bScRigA" y="15"/>
+      </children>
+      <element xmi:type="uml:Actor" href="FoodOrderSystem.uml#_81HPUIvDEequnb8bScRigA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_81S1gYvDEequnb8bScRigA" x="180" y="160"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_wNHXkIvEEequnb8bScRigA" type="Actor_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_wNH-oIvEEequnb8bScRigA" type="Actor_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_wNH-oYvEEequnb8bScRigA" y="15"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_wNH-oovEEequnb8bScRigA" type="Actor_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_wNH-o4vEEequnb8bScRigA" x="20" y="100"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_wNH-pIvEEequnb8bScRigA" type="Actor_QualifiedNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_wNH-pYvEEequnb8bScRigA" x="20" y="80"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_wNH-povEEequnb8bScRigA" type="Actor_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_wNH-p4vEEequnb8bScRigA" y="15"/>
+      </children>
+      <element xmi:type="uml:Actor" href="FoodOrderSystem.uml#_wNAp4IvEEequnb8bScRigA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wNHXkYvEEequnb8bScRigA" x="87" y="137"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_xpeA0IvEEequnb8bScRigA" type="Actor_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_xpen4IvEEequnb8bScRigA" type="Actor_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_xpen4YvEEequnb8bScRigA" y="15"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_xpen4ovEEequnb8bScRigA" type="Actor_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_xpen44vEEequnb8bScRigA" x="20" y="100"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_xpen5IvEEequnb8bScRigA" type="Actor_QualifiedNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_xpen5YvEEequnb8bScRigA" x="20" y="80"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_xpen5ovEEequnb8bScRigA" type="Actor_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_xpen54vEEequnb8bScRigA" y="15"/>
+      </children>
+      <element xmi:type="uml:Actor" href="FoodOrderSystem.uml#_xpcLoIvEEequnb8bScRigA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xpeA0YvEEequnb8bScRigA" x="140" y="40"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_99_GcIvEEequnb8bScRigA" type="Package_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_99_tgIvEEequnb8bScRigA" type="Package_NameLabel"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_9-AUkIvEEequnb8bScRigA" type="Package_PackagedElementCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_EPKJkIvFEequnb8bScRigA" type="UseCase_Shape_CN">
+          <children xmi:type="notation:DecorationNode" xmi:id="_EPLXsIvFEequnb8bScRigA" type="UseCase_NameLabel_CN"/>
+          <children xmi:type="notation:DecorationNode" xmi:id="_EPLXsYvFEequnb8bScRigA" type="UseCase_FloatingNameLabel_CN">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_EPLXsovFEequnb8bScRigA" y="15"/>
+          </children>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_EPPCEIvFEequnb8bScRigA" type="UseCase_ExtensionPointCompartment_CN">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_EPPCEYvFEequnb8bScRigA"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_EPPCEovFEequnb8bScRigA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EPPCE4vFEequnb8bScRigA"/>
+          </children>
+          <element xmi:type="uml:UseCase" href="FoodOrderSystem.uml#_EO3OoIvFEequnb8bScRigA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EPKJkYvFEequnb8bScRigA" x="34" y="12" height="41"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_Hm4TUIvFEequnb8bScRigA" type="UseCase_Shape_CN">
+          <children xmi:type="notation:DecorationNode" xmi:id="_Hm46YIvFEequnb8bScRigA" type="UseCase_NameLabel_CN"/>
+          <children xmi:type="notation:DecorationNode" xmi:id="_Hm5hcIvFEequnb8bScRigA" type="UseCase_FloatingNameLabel_CN">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Hm5hcYvFEequnb8bScRigA" y="15"/>
+          </children>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_Hm6IgIvFEequnb8bScRigA" type="UseCase_ExtensionPointCompartment_CN">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_Hm6IgYvFEequnb8bScRigA"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_Hm6IgovFEequnb8bScRigA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Hm6Ig4vFEequnb8bScRigA"/>
+          </children>
+          <element xmi:type="uml:UseCase" href="FoodOrderSystem.uml#_Hml_cIvFEequnb8bScRigA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Hm4TUYvFEequnb8bScRigA" x="14" y="112" height="41"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_O2eGgIvFEequnb8bScRigA" type="UseCase_Shape_CN">
+          <children xmi:type="notation:DecorationNode" xmi:id="_O2eGgovFEequnb8bScRigA" type="UseCase_NameLabel_CN"/>
+          <children xmi:type="notation:DecorationNode" xmi:id="_O2eGg4vFEequnb8bScRigA" type="UseCase_FloatingNameLabel_CN">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_O2eGhIvFEequnb8bScRigA" y="15"/>
+          </children>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_O2etkIvFEequnb8bScRigA" type="UseCase_ExtensionPointCompartment_CN">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_O2etkYvFEequnb8bScRigA"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_O2etkovFEequnb8bScRigA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_O2etk4vFEequnb8bScRigA"/>
+          </children>
+          <element xmi:type="uml:UseCase" href="FoodOrderSystem.uml#_O2KkgIvFEequnb8bScRigA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_O2eGgYvFEequnb8bScRigA" x="54" y="192" height="40"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_Se1UUIvFEequnb8bScRigA" type="UseCase_Shape_CN">
+          <children xmi:type="notation:DecorationNode" xmi:id="_Se1UUovFEequnb8bScRigA" type="UseCase_NameLabel_CN"/>
+          <children xmi:type="notation:DecorationNode" xmi:id="_Se1UU4vFEequnb8bScRigA" type="UseCase_FloatingNameLabel_CN">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_Se1UVIvFEequnb8bScRigA" y="15"/>
+          </children>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_Se1UVYvFEequnb8bScRigA" type="UseCase_ExtensionPointCompartment_CN">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_Se1UVovFEequnb8bScRigA"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_Se1UV4vFEequnb8bScRigA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Se1UWIvFEequnb8bScRigA"/>
+          </children>
+          <element xmi:type="uml:UseCase" href="FoodOrderSystem.uml#_Sen48IvFEequnb8bScRigA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Se1UUYvFEequnb8bScRigA" x="214" y="132" height="40"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_W0xZ0IvFEequnb8bScRigA" type="UseCase_Shape_CN">
+          <children xmi:type="notation:DecorationNode" xmi:id="_W0yA4IvFEequnb8bScRigA" type="UseCase_NameLabel_CN"/>
+          <children xmi:type="notation:DecorationNode" xmi:id="_W0yA4YvFEequnb8bScRigA" type="UseCase_FloatingNameLabel_CN">
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_W0yA4ovFEequnb8bScRigA" y="15"/>
+          </children>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_W0yA44vFEequnb8bScRigA" type="UseCase_ExtensionPointCompartment_CN">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_W0yA5IvFEequnb8bScRigA"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_W0yA5YvFEequnb8bScRigA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_W0yA5ovFEequnb8bScRigA"/>
+          </children>
+          <element xmi:type="uml:UseCase" href="FoodOrderSystem.uml#_W0fF8IvFEequnb8bScRigA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_W0xZ0YvFEequnb8bScRigA" x="214" y="212" height="40"/>
+        </children>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9-AUkYvEEequnb8bScRigA"/>
+      </children>
+      <element xmi:type="uml:Package" href="FoodOrderSystem.uml#_997cEIvEEequnb8bScRigA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_99_GcYvEEequnb8bScRigA" x="320" width="401" height="301"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_T3I18YvDEequnb8bScRigA" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_T3I18ovDEequnb8bScRigA"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_T3I184vDEequnb8bScRigA" diagramKindId="org.eclipse.papyrus.uml.diagram.useCase">
+      <owner xmi:type="uml:Model" href="FoodOrderSystem.uml#_Tx0REIvDEequnb8bScRigA"/>
+    </styles>
+    <element xmi:type="uml:Model" href="FoodOrderSystem.uml#_Tx0REIvDEequnb8bScRigA"/>
+    <edges xmi:type="notation:Connector" xmi:id="_2sEYAIvEEequnb8bScRigA" type="Generalization_Edge" source="_wNHXkIvEEequnb8bScRigA" target="_xpeA0IvEEequnb8bScRigA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_2sE_EIvEEequnb8bScRigA" type="Generalization_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_5Yp6EIvEEequnb8bScRigA" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_2sE_EYvEEequnb8bScRigA" x="-1" y="-17"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_2sEYAYvEEequnb8bScRigA"/>
+      <element xmi:type="uml:Generalization" href="FoodOrderSystem.uml#_2rrWcIvEEequnb8bScRigA"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2sEYAovEEequnb8bScRigA" points="[87, 160, -643984, -643984]$[114, 105, -643984, -643984]$[140, 60, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2tdfIIvEEequnb8bScRigA" id="(0.0,0.46)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2teGMIvEEequnb8bScRigA" id="(0.0,0.4)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_4q7RYIvEEequnb8bScRigA" type="Generalization_Edge" source="_81S1gIvDEequnb8bScRigA" target="_xpeA0IvEEequnb8bScRigA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_4q74cIvEEequnb8bScRigA" type="Generalization_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4q8fgIvEEequnb8bScRigA" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_4q7RYYvEEequnb8bScRigA"/>
+      <element xmi:type="uml:Generalization" href="FoodOrderSystem.uml#_4qudEIvEEequnb8bScRigA"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4q7RYovEEequnb8bScRigA" points="[180, 180, -643984, -643984]$[170, 80, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4riVYIvEEequnb8bScRigA" id="(0.0,0.4)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4ri8cIvEEequnb8bScRigA" id="(1.0,0.8)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_LPnUkIvFEequnb8bScRigA" type="Association_Edge" source="_81S1gIvDEequnb8bScRigA" target="_EPKJkIvFEequnb8bScRigA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_LPnUk4vFEequnb8bScRigA" type="Association_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_LPnUlIvFEequnb8bScRigA" x="53" y="-8"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_LPnUlYvFEequnb8bScRigA" type="Association_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_LPnUlovFEequnb8bScRigA" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_LPnUkYvFEequnb8bScRigA"/>
+      <element xmi:type="uml:Association" href="FoodOrderSystem.uml#_LPgm4IvFEequnb8bScRigA"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_LPnUkovFEequnb8bScRigA" points="[210, 200, -643984, -643984]$[360, 60, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_LQSC8IvFEequnb8bScRigA" id="(1.0,0.8)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_LQSC8YvFEequnb8bScRigA" id="(0.0,0.4878048780487805)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_lL4CQIvFEequnb8bScRigA" type="Include_Edge" source="_Hm4TUIvFEequnb8bScRigA" target="_EPKJkIvFEequnb8bScRigA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_lL4CQ4vFEequnb8bScRigA" type="Include_KeywordLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_lL4CRIvFEequnb8bScRigA" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_lL4pUIvFEequnb8bScRigA" type="Include_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_lL4pUYvFEequnb8bScRigA" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_lL4CQYvFEequnb8bScRigA"/>
+      <element xmi:type="uml:Include" href="FoodOrderSystem.uml#_lLjSIIvFEequnb8bScRigA"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lL4CQovFEequnb8bScRigA" points="[410, 140, -643984, -643984]$[420, 80, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lMr6kIvFEequnb8bScRigA" id="(0.5,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lMr6kYvFEequnb8bScRigA" id="(0.42857142857142855,0.975609756097561)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_vgWiwIvFEequnb8bScRigA" type="Extend_Edge" source="_W0xZ0IvFEequnb8bScRigA" target="_O2eGgIvFEequnb8bScRigA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_vgWiw4vFEequnb8bScRigA" type="Extend_KeywordLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_vgWixIvFEequnb8bScRigA" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_vgWixYvFEequnb8bScRigA" type="Extend_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_vgWixovFEequnb8bScRigA" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_vgWiwYvFEequnb8bScRigA"/>
+      <element xmi:type="uml:Extend" href="FoodOrderSystem.uml#_vgHSMIvFEequnb8bScRigA"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vgWiwovFEequnb8bScRigA" points="[560, 273, -643984, -643984]$[480, 258, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vhLCIIvFEequnb8bScRigA" id="(0.14285714285714285,0.825)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vhLCIYvFEequnb8bScRigA" id="(0.7142857142857143,0.95)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_wCXDoIvFEequnb8bScRigA" type="Extend_Edge" source="_Se1UUIvFEequnb8bScRigA" target="_O2eGgIvFEequnb8bScRigA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_wCXDo4vFEequnb8bScRigA" type="Extend_KeywordLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_wCXDpIvFEequnb8bScRigA" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_wCXDpYvFEequnb8bScRigA" type="Extend_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_wCXDpovFEequnb8bScRigA" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_wCXDoYvFEequnb8bScRigA"/>
+      <element xmi:type="uml:Extend" href="FoodOrderSystem.uml#_wCHMAIvFEequnb8bScRigA"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_wCXDoovFEequnb8bScRigA" points="[560, 193, -643984, -643984]$[480, 221, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_wC52MIvFEequnb8bScRigA" id="(0.12987012987012986,0.825)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_wC52MYvFEequnb8bScRigA" id="(0.7142857142857143,0.025)"/>
+    </edges>
+  </notation:Diagram>
+  <nattable:Table xmi:id="_T3eNIIvDEequnb8bScRigA" name="View Table" currentRowAxisProvider="_T3eNJovDEequnb8bScRigA" currentColumnAxisProvider="_T3eNIYvDEequnb8bScRigA" tableKindId="org.eclipse.papyrus.uml.table.view">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_T3iekIvDEequnb8bScRigA" source="http://www.eclipse.org/papyrus/infra/nattable/version">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_T3iekYvDEequnb8bScRigA" key="version" value="1.3.0"/>
+    </eAnnotations>
+    <context xmi:type="uml:Model" href="FoodOrderSystem.uml#_Tx0REIvDEequnb8bScRigA"/>
+    <owner xmi:type="uml:Model" href="FoodOrderSystem.uml#_Tx0REIvDEequnb8bScRigA"/>
+    <tableConfiguration xmi:type="nattableconfiguration:TableConfiguration" href="platform:/plugin/org.eclipse.papyrus.infra.nattable.views.config/resources/viewpage.nattableconfiguration#PapyrusViewsTable_XMI_ID"/>
+    <columnAxisProvidersHistory xmi:type="nattableaxisprovider:SlaveObjectAxisProvider" xmi:id="_T3eNIYvDEequnb8bScRigA" description="Provides the features of the views" name="Papyrus Views feature provider">
+      <axis xmi:type="nattableaxis:FeatureIdAxis" xmi:id="_T3eNIovDEequnb8bScRigA" element="nattable_editor_pages:/name">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.infra.nattable.views.config/resources/viewpage.nattableconfiguration#_YwqztTzQEei_1txcmoHe_A"/>
+      </axis>
+      <axis xmi:type="nattableaxis:FeatureIdAxis" xmi:id="_T3eNI4vDEequnb8bScRigA" element="nattable_editor_pages:/context">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.infra.nattable.views.config/resources/viewpage.nattableconfiguration#_YwqztTzQEei_1txcmoHe_A"/>
+      </axis>
+      <axis xmi:type="nattableaxis:FeatureIdAxis" xmi:id="_T3eNJIvDEequnb8bScRigA" element="nattable_editor_pages:/isOpen">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.infra.nattable.views.config/resources/viewpage.nattableconfiguration#_YwqztTzQEei_1txcmoHe_A"/>
+      </axis>
+      <axis xmi:type="nattableaxis:FeatureIdAxis" xmi:id="_T3eNJYvDEequnb8bScRigA" element="nattable_editor_pages:/type">
+        <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.infra.nattable.views.config/resources/viewpage.nattableconfiguration#_YwqztTzQEei_1txcmoHe_A"/>
+      </axis>
+    </columnAxisProvidersHistory>
+    <rowAxisProvidersHistory xmi:type="nattableaxisprovider:MasterObjectAxisProvider" xmi:id="_T3eNJovDEequnb8bScRigA"/>
+  </nattable:Table>
+</xmi:XMI>

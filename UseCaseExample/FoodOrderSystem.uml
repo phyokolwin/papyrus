@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_Tx0REIvDEequnb8bScRigA" name="UseCaseExample">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_T4_QEIvDEequnb8bScRigA">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_81HPUIvDEequnb8bScRigA" name="customer">
+    <generalization xmi:type="uml:Generalization" xmi:id="_4qudEIvEEequnb8bScRigA" general="_xpcLoIvEEequnb8bScRigA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_wNAp4IvEEequnb8bScRigA" name="manager">
+    <generalization xmi:type="uml:Generalization" xmi:id="_2rrWcIvEEequnb8bScRigA" general="_xpcLoIvEEequnb8bScRigA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_xpcLoIvEEequnb8bScRigA" name="user"/>
+  <packagedElement xmi:type="uml:Package" xmi:id="_997cEIvEEequnb8bScRigA" name="System">
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_EO3OoIvFEequnb8bScRigA" name="login account"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_Hml_cIvFEequnb8bScRigA" name="order meal">
+      <include xmi:type="uml:Include" xmi:id="_lLjSIIvFEequnb8bScRigA" addition="_EO3OoIvFEequnb8bScRigA"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_O2KkgIvFEequnb8bScRigA" name="make a payment">
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_vgIgUIvFEequnb8bScRigA" name="ExtensionPoint1"/>
+      <extensionPoint xmi:type="uml:ExtensionPoint" xmi:id="_wCHzEIvFEequnb8bScRigA" name="ExtensionPoint2"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_Sen48IvFEequnb8bScRigA" name="with paypal account">
+      <extend xmi:type="uml:Extend" xmi:id="_wCHMAIvFEequnb8bScRigA" extendedCase="_O2KkgIvFEequnb8bScRigA" extensionLocation="_wCHzEIvFEequnb8bScRigA"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_W0fF8IvFEequnb8bScRigA" name="with credit card">
+      <extend xmi:type="uml:Extend" xmi:id="_vgHSMIvFEequnb8bScRigA" extendedCase="_O2KkgIvFEequnb8bScRigA" extensionLocation="_vgIgUIvFEequnb8bScRigA"/>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_LPgm4IvFEequnb8bScRigA" name="a customer login account" memberEnd="_LPkRQIvFEequnb8bScRigA _LPk4UIvFEequnb8bScRigA">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_LPicEIvFEequnb8bScRigA" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_LPjDIIvFEequnb8bScRigA" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_LPkRQIvFEequnb8bScRigA" name="login account" type="_EO3OoIvFEequnb8bScRigA" association="_LPgm4IvFEequnb8bScRigA"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_LPk4UIvFEequnb8bScRigA" name="customer" type="_81HPUIvDEequnb8bScRigA" association="_LPgm4IvFEequnb8bScRigA"/>
+  </packagedElement>
+</uml:Model>
