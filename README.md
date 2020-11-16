@@ -9,4 +9,4 @@ Original Website
 https://madsailorsoftware.com/educational-videos/uml-tutorials/
 
 Errtra
-(1,2,3) png file for sequence diagram
+(1,2,3) png file in sequence diagram example
