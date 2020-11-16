@@ -5,7 +5,7 @@ The UML Tutorial Videos explain the various facets of the Unified Modelling Lang
 YouTube playlist
 https://www.youtube.com/watch?v=y7grsHY9Fa0&list=PLoWne5q-c9E_Q2_eAUZKPDA5K0V-O5zXs
 
-Original Website
+Website
 https://madsailorsoftware.com/educational-videos/uml-tutorials/
 
 Errtra
